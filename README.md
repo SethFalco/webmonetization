@@ -52,7 +52,6 @@ webmonetization.org
     │   │   ├── gatehub-findpointer.gif
     │   │   ├── gatehub.png
     │   │   ├── uphold
-    │   │   ├── uphold.svg
     │   │   └── xrpmigration
     │   ├── counter.md
     │   ├── exclusive-content.md
@@ -70,7 +69,6 @@ webmonetization.org
     │   ├── specification.md
     │   ├── start-stop.md
     │   ├── stronghold.md
-    │   ├── uphold.md
     │   └── xrptipbot.md
     ├── docusaurus.config.js
     ├── i18n
@@ -94,7 +92,6 @@ webmonetization.org
     │   │   └── custom.css
     │   ├── img
     │   │   ├── awesome_webmo_logo.svg
-    │   │   ├── coil_logo.svg
     │   │   ├── copy_icon.svg
     │   │   ├── fav-webmonetization.png
     │   │   ├── favicon.ico
@@ -103,10 +100,6 @@ webmonetization.org
     │   │   ├── icon-arrow-right.svg
     │   │   ├── icon-merge.svg
     │   │   ├── infinity_search_logo.svg
-    │   │   ├── logo-browser-chrome.svg
-    │   │   ├── logo-browser-edge.svg
-    │   │   ├── logo-browser-firefox.svg
-    │   │   ├── logo-browser-puma.svg
     │   │   ├── logo-tool-11ty.svg
     │   │   ├── logo-tool-angular.svg
     │   │   ├── logo-tool-gatsby.svg
@@ -120,8 +113,6 @@ webmonetization.org
     │   │   ├── stronghold_logo.png
     │   │   ├── stronghold_logo.svg
     │   │   ├── tipbot_logo.svg
-    │   │   ├── uphold-logo.svg
-    │   │   ├── uphold_logo.svg
     │   │   ├── webmon_icon.svg
     │   │   ├── webmon_icon_simple.svg
     │   │   ├── wm-icon-animated.svg
